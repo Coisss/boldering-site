@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 0 auto 0 auto;
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+header {
+    padding: 35px;
+    background-image: url(https://mars.algoritmika.org/uploads/2020/12/header_0_1609082687.svg)
+}
+
+main {
+    text-align: center;
+    margin: 15px 50px 0 50px;
+}
+
+nav a {
+    text-decoration: underline 5px;;
+    color:black;
+    font-size: 24px;
+}
+
+img {
+    border-left:15px dotted black;
+    padding: 5px;
+}
+
+main p {
+    border:1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px 30px 5px 30px;
+    border:10px solid black;
+}
